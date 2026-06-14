@@ -10,7 +10,7 @@
         "Icon": "moon",
         "Id": "moon.phase",
         "Name": "Moon Phaser",
-        "Version": "0.3"
+        "Version": "0.5"
     },
     "X-Plasma-API-Minimum-Version": "6.0",
     "KPackageStructure": "Plasma/Applet"
